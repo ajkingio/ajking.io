@@ -1,3 +1,0 @@
-# ajking.io
-
-Welcome!
