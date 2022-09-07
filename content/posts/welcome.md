@@ -1,8 +1,7 @@
 ---
-title: "Welcome"
+title: "What is Detection-as-Code?"
 date: 2022-09-05T00:37:35-07:00
-draft: false
+draft: true
 ---
 
-# Welcome
-This site is a work in progress.
+Detection-as-Code is somewhat of a new idea.
