@@ -9,11 +9,11 @@ params:
 
     socialIcons: # optional
         - name: "Twitter"
-            url: "https://twitter.com/ajkingio"
+          url: "https://twitter.com/ajkingio"
         - name: "GitHub"
-            url: "https://github.com/ajkingio"
+          url: "https://github.com/ajkingio"
         - name: "LinkedIn"
-            url: "https://www.linkedin.com/in/alexdavidjones"
+          url: "https://www.linkedin.com/in/alexdavidjones"
 
 outputs:
     home:
