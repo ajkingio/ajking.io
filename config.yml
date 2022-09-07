@@ -2,3 +2,21 @@ baseURL: https://ajking.io/
 languageCode: en-us
 title: AJ King
 theme: PaperMod
+params:
+    homeInfoParams:
+        Title: Welcome
+        Content: This is my blog where I write about things that I find interesting.
+
+    socialIcons: # optional
+        - name: "Twitter"
+            url: "https://twitter.com/ajkingio"
+        - name: "GitHub"
+            url: "https://github.com/ajkingio"
+        - name: "LinkedIn"
+            url: "https://www.linkedin.com/in/alexdavidjones"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
