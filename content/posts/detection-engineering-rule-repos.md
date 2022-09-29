@@ -8,12 +8,12 @@ Detection engineering can be daunting at times. Cyber Security is a fire hose of
 
 Here are few good ones:
 
-https://github.com/SigmaHQ/sigma
-https://github.com/elastic/detection-rules
-https://github.com/splunk/security_content
-https://github.com/panther-labs/panther-analysis
-https://github.com/mdecrevoisier/SIGMA-detection-rules
-https://github.com/Insikt-Group/Research
-https://github.com/P4T12ICK/Sigma-Rule-Repository
-https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
-https://github.com/Loginsoft-Research/detection-rules
+- https://github.com/SigmaHQ/sigma
+- https://github.com/elastic/detection-rules
+- https://github.com/splunk/security_content
+- https://github.com/panther-labs/panther-analysis
+- https://github.com/mdecrevoisier/SIGMA-detection-rules
+- https://github.com/Insikt-Group/Research
+- https://github.com/P4T12ICK/Sigma-Rule-Repository
+- https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules
+- https://github.com/Loginsoft-Research/detection-rules
