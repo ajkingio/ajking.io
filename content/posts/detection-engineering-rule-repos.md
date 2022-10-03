@@ -4,7 +4,7 @@ date: 2022-09-28T20:54:35-07:00
 draft: false
 ---
 
-Detection engineering can be daunting at times. Cyber Security is a fire hose of fast moving information and the detection engineer  needs to shift through and figure out what to develop to monitor their environment. Luckily the detection engineer community is growing and there are more and more public repositories of detection rules popping up.
+Detection engineering can be daunting at times. Cyber Security is a fire hose of fast moving information and the detection engineer needs to sift through and figure out what to develop to monitor their environment. Luckily the detection engineer community is growing and there are more and more public repositories of detection rules popping up.
 
 Here are few good ones:
 
