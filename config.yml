@@ -2,7 +2,38 @@ baseURL: https://blog.ajking.io
 languageCode: en-us
 title: AJ King
 theme: PaperMod
+
+languages:
+    en:
+        languageName: "English"
+        weight: 1
+        taxonomies:
+          category: categories
+          tag: tags
+          series: series
+        menu:
+            main:
+                - name: Archive
+                  url: archives
+                  weight: 5
+                - name: Search
+                  url: search/
+                  weight: 10
+                - name: Tags
+                  url: tags/
+                  weight: 10
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
+
 params:
+    ShowReadingTime: true
+    ShowBreadCrumbs: true
+    ShowToc: true
+
     homeInfoParams:
         Title: Welcome
         Content: This is my blog where I write about things that I find interesting.
@@ -15,8 +46,3 @@ params:
         - name: "LinkedIn"
           url: "https://www.linkedin.com/in/alexdavidjones"
 
-outputs:
-    home:
-        - HTML
-        - RSS
-        - JSON
